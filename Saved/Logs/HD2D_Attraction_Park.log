@@ -3560,3 +3560,1094 @@ Vérifiez que "/Game/ChambouleTout/BP_ConeParent.BP_ConeParent_C" a été compil
 [2025.01.20-09.04.03:998][ 27]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.01.20-09.04.03:998][ 27]LogContentValidation: Display: Validating asset /Game/2DAction/Maps/AttractionPark.AttractionPark
 [2025.01.20-09.04.03:998][ 27]AssetCheck: /Game/2DAction/Maps/AttractionPark Validation de la ressource
+[2025.01.20-09.07.49:775][278]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.20-09.07.49:813][278]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ChambouleTout/TriggerBoxStandChamb] ([2] browsable assets)...
+[2025.01.20-09.07.49:813][278]OBJ SavePackage: Finished generating thumbnails for package [/Game/ChambouleTout/TriggerBoxStandChamb]
+[2025.01.20-09.07.49:823][278]LogSavePackage: Moving output files for package: /Game/ChambouleTout/TriggerBoxStandChamb
+[2025.01.20-09.07.49:823][278]LogSavePackage: Moving '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Saved/TriggerBoxStandChambE0D0CF8441D8CA41465FB3BE6423511F.tmp' to '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Content/ChambouleTout/TriggerBoxStandChamb.uasset'
+[2025.01.20-09.07.49:836][278]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.680 ms (total: 2.81 sec)
+[2025.01.20-09.07.49:895][278]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.20-09.07.49:896][278]LogContentValidation: Enabled validators:
+[2025.01.20-09.07.49:896][278]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.20-09.07.49:896][278]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.20-09.07.49:896][278]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.20-09.07.49:896][278]LogContentValidation: Display: Validating asset /Game/ChambouleTout/TriggerBoxStandChamb.TriggerBoxStandChamb
+[2025.01.20-09.07.49:896][278]AssetCheck: /Game/ChambouleTout/TriggerBoxStandChamb Validation de la ressource
+[2025.01.20-09.10.31:380][651]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2475.570557
+[2025.01.20-09.10.31:621][680]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-09.10.31:621][680]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2475.803711, Update Interval: 320.504761
+[2025.01.20-09.11.18:038][206]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.01.20-09.11.18:057][206]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.20-09.11.18:057][206]LogPlayLevel: Creating play world package: /Game/2DAction/Maps/UEDPIE_0_AttractionPark
+[2025.01.20-09.11.18:063][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004598s)
+[2025.01.20-09.11.18:063][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DAction/Maps/AttractionPark.AttractionPark to /Game/2DAction/Maps/UEDPIE_0_AttractionPark.AttractionPark (0.004636s)
+[2025.01.20-09.11.18:079][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.01.20-09.11.18:080][206]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.20-09.11.18:081][206]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2025.01.20-09.11.18:088][206]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.01.20-09.11.18:088][206]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.20-09.11.18:088][206]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.20-09.11.18:088][206]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.20-09.11.18:088][206]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.20-09.11.18:088][206]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.20-09.11.18:088][206]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.20-09.11.18:088][206]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.20-09.11.18:088][206]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.20-09.11.18:088][206]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.20-09.11.18:088][206]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.20-09.11.18:088][206]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.20-09.11.18:089][206]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.20-09.11.18:130][206]LogAudioMixer: Display: Using Audio Hardware Device Voicemeeter Input (VB-Audio Voicemeeter VAIO)
+[2025.01.20-09.11.18:130][206]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.20-09.11.18:130][206]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.20-09.11.18:130][206]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.20-09.11.18:131][206]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.01.20-09.11.18:131][206]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.01.20-09.11.18:132][206]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.01.20-09.11.18:132][206]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.01.20-09.11.18:132][206]LogInit: FAudioDevice initialized with ID 19.
+[2025.01.20-09.11.18:132][206]LogAudio: Display: Audio Device (ID: 19) registered with world 'AttractionPark'.
+[2025.01.20-09.11.18:133][206]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.01.20-09.11.18:134][206]LogLoad: Game class is 'Player_Gamemode_C'
+[2025.01.20-09.11.18:137][206]LogWorld: Bringing World /Game/2DAction/Maps/UEDPIE_0_AttractionPark.AttractionPark up for play (max tick rate 0) at 2025.01.20-10.11.18
+[2025.01.20-09.11.18:138][206]LogWorld: Bringing up level for play took: 0.002519
+[2025.01.20-09.11.18:140][206]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.01.20-09.11.18:148][206]PIE: Serveur connecté
+[2025.01.20-09.11.18:148][206]PIE: Play in Editor : temps total de démarrage 0,103 secondes.
+[2025.01.20-09.11.21:478][592]LogBlueprintUserMessages: [MyTriggerBox_C_1] 1
+[2025.01.20-09.11.24:421][945]LogBlueprintUserMessages: [MyTriggerBox_C_1] 2
+[2025.01.20-09.11.25:180][ 36]LogBlueprintUserMessages: [MyTriggerBox_C_1] 3
+[2025.01.20-09.11.26:290][169]LogBlueprintUserMessages: [MyTriggerBox_C_1] 4
+[2025.01.20-09.11.26:473][191]LogBlueprintUserMessages: [MyTriggerBox_C_1] 5
+[2025.01.20-09.11.32:311][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-09.11.32:311][885]LogWorld: BeginTearingDown for /Game/2DAction/Maps/UEDPIE_0_AttractionPark
+[2025.01.20-09.11.32:312][885]LogWorld: UWorld::CleanupWorld for AttractionPark, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-09.11.32:312][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-09.11.32:312][885]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.20-09.11.32:312][885]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.20-09.11.32:332][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.20-09.11.32:335][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-09.11.32:348][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-09.11.32:349][885]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.01.20-09.11.32:349][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.01.20-09.11.32:350][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.01.20-09.11.32:356][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.01.20-09.11.32:418][886]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2025.01.20-09.11.36:880][282]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.01.20-09.11.36:889][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.20-09.11.36:889][282]LogPlayLevel: Creating play world package: /Game/2DAction/Maps/UEDPIE_0_AttractionPark
+[2025.01.20-09.11.36:893][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003919s)
+[2025.01.20-09.11.36:893][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DAction/Maps/AttractionPark.AttractionPark to /Game/2DAction/Maps/UEDPIE_0_AttractionPark.AttractionPark (0.003951s)
+[2025.01.20-09.11.36:905][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.01.20-09.11.36:907][282]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.20-09.11.36:907][282]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2025.01.20-09.11.36:915][282]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.01.20-09.11.36:915][282]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.20-09.11.36:915][282]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.20-09.11.36:915][282]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.20-09.11.36:915][282]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.20-09.11.36:915][282]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.20-09.11.36:915][282]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.20-09.11.36:915][282]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.20-09.11.36:915][282]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.20-09.11.36:915][282]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.20-09.11.36:915][282]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.20-09.11.36:915][282]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.20-09.11.36:916][282]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.20-09.11.36:954][282]LogAudioMixer: Display: Using Audio Hardware Device Voicemeeter Input (VB-Audio Voicemeeter VAIO)
+[2025.01.20-09.11.36:954][282]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.20-09.11.36:954][282]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.20-09.11.36:954][282]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.20-09.11.36:955][282]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.01.20-09.11.36:955][282]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.01.20-09.11.36:957][282]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.01.20-09.11.36:957][282]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.01.20-09.11.36:957][282]LogInit: FAudioDevice initialized with ID 20.
+[2025.01.20-09.11.36:957][282]LogAudio: Display: Audio Device (ID: 20) registered with world 'AttractionPark'.
+[2025.01.20-09.11.36:957][282]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.01.20-09.11.36:959][282]LogLoad: Game class is 'Player_Gamemode_C'
+[2025.01.20-09.11.36:961][282]LogWorld: Bringing World /Game/2DAction/Maps/UEDPIE_0_AttractionPark.AttractionPark up for play (max tick rate 0) at 2025.01.20-10.11.36
+[2025.01.20-09.11.36:961][282]LogWorld: Bringing up level for play took: 0.002228
+[2025.01.20-09.11.36:963][282]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2025.01.20-09.11.36:970][282]PIE: Serveur connecté
+[2025.01.20-09.11.36:971][282]PIE: Play in Editor : temps total de démarrage 0,084 secondes.
+[2025.01.20-09.11.48:103][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-09.11.48:103][573]LogWorld: BeginTearingDown for /Game/2DAction/Maps/UEDPIE_0_AttractionPark
+[2025.01.20-09.11.48:103][573]LogWorld: UWorld::CleanupWorld for AttractionPark, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-09.11.48:104][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-09.11.48:104][573]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.20-09.11.48:104][573]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.20-09.11.48:109][573]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.20-09.11.48:113][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-09.11.48:130][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-09.11.48:130][573]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.01.20-09.11.48:130][573]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.01.20-09.11.48:131][573]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.01.20-09.11.48:137][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.01.20-09.11.48:202][574]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2025.01.20-09.12.32:979][658]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/AIC_AI.AIC_AI
+[2025.01.20-09.12.37:276][147]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-09.12.37:276][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-09.12.37:315][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.01.20-09.12.38:790][268]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-09.12.38:790][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-09.12.38:797][268]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-09.12.38:797][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-09.12.38:831][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.01.20-09.12.39:446][308]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.20-09.12.39:446][308]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-09.12.39:446][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-09.12.39:487][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.01.20-09.12.39:920][336]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.20-09.12.39:920][336]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-09.12.39:920][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-09.12.39:970][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.01.20-09.12.40:607][390]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/AI/BB_AI.BB_AI
+[2025.01.20-09.12.47:154][ 53]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/AI/BT_AI.BT_AI
+[2025.01.20-09.12.54:990][879]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/AI/BT_AI.BT_AI
+[2025.01.20-09.12.56:714][ 71]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BTTask_RandomMovementAi.BTTask_RandomMovementAi
+[2025.01.20-09.13.02:708][775]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-09.13.02:708][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-09.13.02:747][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.01.20-09.13.08:691][242]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BTTask_RandomMovementAi.BTTask_RandomMovementAi
+[2025.01.20-09.13.10:925][489]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-09.13.10:925][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-09.13.10:962][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.01.20-09.13.12:258][578]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BP_AI.BP_AI
+[2025.01.20-09.13.31:951][568]LogEditorViewport: Clicking Background
+[2025.01.20-09.15.18:721][346]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BTTask_RandomMovementAi.BTTask_RandomMovementAi
+[2025.01.20-09.16.09:322][402]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-09.16.09:322][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-09.16.09:367][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.01.20-09.16.10:046][481]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-09.16.10:046][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-09.16.10:088][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.01.20-09.16.38:523][864]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2842.737061
+[2025.01.20-09.16.38:672][882]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-09.16.38:673][882]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2842.879150, Update Interval: 334.564056
+[2025.01.20-09.17.43:446][613]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ChambouleTout/BP_CahmbouleTout.BP_CahmbouleTout
+[2025.01.20-09.17.50:884][449]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ChambouleTout/TriggerBoxStandChamb.TriggerBoxStandChamb
+[2025.01.20-09.20.11:554][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.01.20-09.22.51:067][339]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3215.279053
+[2025.01.20-09.22.51:201][355]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-09.22.51:201][355]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3215.403809, Update Interval: 344.635162
+[2025.01.20-09.24.51:651][668]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ChambouleTout/BP_ConeParent.BP_ConeParent
+[2025.01.20-09.24.58:618][455]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.01.20-09.24.58:637][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.20-09.24.58:637][455]LogPlayLevel: Creating play world package: /Game/2DAction/Maps/UEDPIE_0_AttractionPark
+[2025.01.20-09.24.58:641][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004320s)
+[2025.01.20-09.24.58:641][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DAction/Maps/AttractionPark.AttractionPark to /Game/2DAction/Maps/UEDPIE_0_AttractionPark.AttractionPark (0.004356s)
+[2025.01.20-09.24.58:657][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.01.20-09.24.58:660][455]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.20-09.24.58:661][455]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2025.01.20-09.24.58:668][455]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.01.20-09.24.58:668][455]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.20-09.24.58:668][455]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.20-09.24.58:668][455]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.20-09.24.58:668][455]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.20-09.24.58:668][455]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.20-09.24.58:668][455]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.20-09.24.58:668][455]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.20-09.24.58:668][455]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.20-09.24.58:668][455]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.20-09.24.58:668][455]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.20-09.24.58:668][455]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.20-09.24.58:670][455]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.20-09.24.58:709][455]LogAudioMixer: Display: Using Audio Hardware Device Voicemeeter Input (VB-Audio Voicemeeter VAIO)
+[2025.01.20-09.24.58:710][455]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.20-09.24.58:710][455]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.20-09.24.58:710][455]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.20-09.24.58:711][455]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.01.20-09.24.58:711][455]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.01.20-09.24.58:712][455]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.01.20-09.24.58:712][455]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.01.20-09.24.58:712][455]LogInit: FAudioDevice initialized with ID 21.
+[2025.01.20-09.24.58:712][455]LogAudio: Display: Audio Device (ID: 21) registered with world 'AttractionPark'.
+[2025.01.20-09.24.58:712][455]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.01.20-09.24.58:716][455]LogLoad: Game class is 'Player_Gamemode_C'
+[2025.01.20-09.24.58:718][455]LogWorld: Bringing World /Game/2DAction/Maps/UEDPIE_0_AttractionPark.AttractionPark up for play (max tick rate 0) at 2025.01.20-10.24.58
+[2025.01.20-09.24.58:719][455]LogWorld: Bringing up level for play took: 0.002738
+[2025.01.20-09.24.58:720][455]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2025.01.20-09.24.58:729][455]PIE: Serveur connecté
+[2025.01.20-09.24.58:729][455]PIE: Play in Editor : temps total de démarrage 0,105 secondes.
+[2025.01.20-09.25.02:382][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-09.25.04:915][186]LogBlueprintUserMessages: [MyTriggerBox_C_1] 1
+[2025.01.20-09.25.04:982][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-09.25.05:508][257]LogBlueprintUserMessages: [MyTriggerBox_C_1] 1
+[2025.01.20-09.25.08:134][572]LogBlueprintUserMessages: [MyTriggerBox_C_1] 2
+[2025.01.20-09.25.08:526][619]LogBlueprintUserMessages: [MyTriggerBox_C_1] 3
+[2025.01.20-09.25.09:209][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-09.25.12:367][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-09.25.12:651][114]LogBlueprintUserMessages: [MyTriggerBox_C_1] 1
+[2025.01.20-09.25.15:126][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-09.25.18:985][874]LogBlueprintUserMessages: [MyTriggerBox_C_1] 1
+[2025.01.20-09.25.19:168][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-09.25.19:818][974]LogBlueprintUserMessages: [MyTriggerBox_C_1] 1
+[2025.01.20-09.25.20:461][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-09.25.20:461][ 46]LogWorld: BeginTearingDown for /Game/2DAction/Maps/UEDPIE_0_AttractionPark
+[2025.01.20-09.25.20:462][ 46]LogWorld: UWorld::CleanupWorld for AttractionPark, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-09.25.20:463][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-09.25.20:463][ 46]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.20-09.25.20:463][ 46]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.20-09.25.20:485][ 46]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.20-09.25.20:489][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-09.25.20:503][ 46]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.20-09.25.20:503][ 46]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.01.20-09.25.20:504][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.01.20-09.25.20:506][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.01.20-09.25.20:508][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-09.25.20:511][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.01.20-09.25.20:556][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2025.01.20-09.25.25:096][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.20-09.25.25:184][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.01.20-09.25.25:203][585]LogSavePackage: Moving output files for package: /Game/2DAction/Maps/AttractionPark
+[2025.01.20-09.25.25:204][585]LogSavePackage: Moving '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Saved/AttractionParkE4B3E8CF461365D5828C41B4D8BF46F5.tmp' to '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Content/2DAction/Maps/AttractionPark.umap'
+[2025.01.20-09.25.25:210][585]LogFileHelpers: Saving map 'AttractionPark' took 0.059
+[2025.01.20-09.25.25:226][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.986 ms (total: 2.94 sec)
+[2025.01.20-09.25.25:288][585]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.20-09.25.25:288][585]LogContentValidation: Enabled validators:
+[2025.01.20-09.25.25:288][585]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.20-09.25.25:288][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.20-09.25.25:288][585]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.20-09.25.25:288][585]LogContentValidation: Display: Validating asset /Game/2DAction/Maps/AttractionPark.AttractionPark
+[2025.01.20-09.25.25:289][585]AssetCheck: /Game/2DAction/Maps/AttractionPark Validation de la ressource
+[2025.01.20-09.29.15:999][284]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3600.213623
+[2025.01.20-09.29.16:998][287]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-09.29.16:998][287]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3600.880615, Update Interval: 324.322632
+[2025.01.20-09.31.09:453][334]LogDerivedDataCache: C:/Users/lqueirosdasilva/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.20-09.31.21:192][739]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-09.31.21:192][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-09.31.21:242][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.01.20-09.35.38:326][482]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3982.560547
+[2025.01.20-09.35.38:443][496]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-09.35.38:443][496]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3982.668457, Update Interval: 303.790405
+[2025.01.20-09.36.35:033][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.01.20-09.36.35:034][150]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DAction/Maps/AttractionPark' took 0.018
+[2025.01.20-09.36.35:034][150]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ChambouleTout/TriggerBoxStandChamb] ([2] browsable assets)...
+[2025.01.20-09.36.35:034][150]OBJ SavePackage: Finished generating thumbnails for package [/Game/ChambouleTout/TriggerBoxStandChamb]
+[2025.01.20-09.36.35:045][150]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ChambouleTout/TriggerBoxStandChamb_Auto1
+[2025.01.20-09.36.35:045][150]LogSavePackage: Moving '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Saved/TriggerBoxStandChamb_Auto1E75572234A00510C2B57809730C80C7B.tmp' to '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Saved/Autosaves/Game/ChambouleTout/TriggerBoxStandChamb_Auto1.uasset'
+[2025.01.20-09.36.35:046][150]LogFileHelpers: Auto-saving content packages took 0.012
+[2025.01.20-09.40.59:552][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.01.20-09.41.01:908][109]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.01.20-09.41.01:927][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.20-09.41.01:956][109]LogPlayLevel: Creating play world package: /Game/2DAction/Maps/UEDPIE_0_AttractionPark
+[2025.01.20-09.41.01:961][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005336s)
+[2025.01.20-09.41.01:961][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DAction/Maps/AttractionPark.AttractionPark to /Game/2DAction/Maps/UEDPIE_0_AttractionPark.AttractionPark (0.005407s)
+[2025.01.20-09.41.01:979][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.01.20-09.41.01:983][109]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.20-09.41.01:984][109]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2025.01.20-09.41.01:990][109]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.01.20-09.41.01:990][109]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.20-09.41.01:990][109]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.20-09.41.01:990][109]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.20-09.41.01:990][109]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.20-09.41.01:990][109]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.20-09.41.01:990][109]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.20-09.41.01:990][109]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.20-09.41.01:990][109]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.20-09.41.01:990][109]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.20-09.41.01:990][109]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.20-09.41.01:990][109]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.20-09.41.01:992][109]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.20-09.41.02:032][109]LogAudioMixer: Display: Using Audio Hardware Device Voicemeeter Input (VB-Audio Voicemeeter VAIO)
+[2025.01.20-09.41.02:033][109]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.20-09.41.02:033][109]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.20-09.41.02:033][109]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.20-09.41.02:033][109]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.01.20-09.41.02:033][109]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.01.20-09.41.02:034][109]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.01.20-09.41.02:034][109]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.01.20-09.41.02:034][109]LogInit: FAudioDevice initialized with ID 22.
+[2025.01.20-09.41.02:034][109]LogAudio: Display: Audio Device (ID: 22) registered with world 'AttractionPark'.
+[2025.01.20-09.41.02:034][109]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.01.20-09.41.02:036][109]LogLoad: Game class is 'Player_Gamemode_C'
+[2025.01.20-09.41.02:038][109]LogWorld: Bringing World /Game/2DAction/Maps/UEDPIE_0_AttractionPark.AttractionPark up for play (max tick rate 0) at 2025.01.20-10.41.02
+[2025.01.20-09.41.02:039][109]LogWorld: Bringing up level for play took: 0.002379
+[2025.01.20-09.41.02:041][109]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2025.01.20-09.41.02:049][109]PIE: Serveur connecté
+[2025.01.20-09.41.02:050][109]PIE: Play in Editor : temps total de démarrage 0,135 secondes.
+[2025.01.20-09.41.15:225][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-09.41.15:225][675]LogWorld: BeginTearingDown for /Game/2DAction/Maps/UEDPIE_0_AttractionPark
+[2025.01.20-09.41.15:226][675]LogWorld: UWorld::CleanupWorld for AttractionPark, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-09.41.15:226][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-09.41.15:226][675]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.20-09.41.15:226][675]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.20-09.41.15:244][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.20-09.41.15:248][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-09.41.15:260][675]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.20-09.41.15:260][675]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.01.20-09.41.15:260][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.01.20-09.41.15:262][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.01.20-09.41.15:265][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-09.41.15:267][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.01.20-09.41.15:331][676]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2025.01.20-09.41.16:221][778]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4320.500977
+[2025.01.20-09.41.16:348][793]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-09.41.16:348][793]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4320.620117, Update Interval: 330.431213
+[2025.01.20-09.41.16:904][860]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.01.20-09.41.16:922][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.20-09.41.16:956][860]LogPlayLevel: Creating play world package: /Game/2DAction/Maps/UEDPIE_0_AttractionPark
+[2025.01.20-09.41.16:961][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004967s)
+[2025.01.20-09.41.16:961][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DAction/Maps/AttractionPark.AttractionPark to /Game/2DAction/Maps/UEDPIE_0_AttractionPark.AttractionPark (0.005018s)
+[2025.01.20-09.41.16:977][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.01.20-09.41.16:979][860]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.20-09.41.16:980][860]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2025.01.20-09.41.16:987][860]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.01.20-09.41.16:987][860]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.20-09.41.16:987][860]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.20-09.41.16:987][860]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.20-09.41.16:987][860]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.20-09.41.16:987][860]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.20-09.41.16:987][860]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.20-09.41.16:987][860]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.20-09.41.16:987][860]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.20-09.41.16:987][860]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.20-09.41.16:987][860]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.20-09.41.16:987][860]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.20-09.41.16:988][860]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.20-09.41.17:025][860]LogAudioMixer: Display: Using Audio Hardware Device Voicemeeter Input (VB-Audio Voicemeeter VAIO)
+[2025.01.20-09.41.17:025][860]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.20-09.41.17:025][860]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.20-09.41.17:025][860]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.20-09.41.17:026][860]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.01.20-09.41.17:026][860]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.01.20-09.41.17:028][860]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.01.20-09.41.17:028][860]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.01.20-09.41.17:028][860]LogInit: FAudioDevice initialized with ID 23.
+[2025.01.20-09.41.17:028][860]LogAudio: Display: Audio Device (ID: 23) registered with world 'AttractionPark'.
+[2025.01.20-09.41.17:028][860]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.01.20-09.41.17:030][860]LogLoad: Game class is 'Player_Gamemode_C'
+[2025.01.20-09.41.17:032][860]LogWorld: Bringing World /Game/2DAction/Maps/UEDPIE_0_AttractionPark.AttractionPark up for play (max tick rate 0) at 2025.01.20-10.41.17
+[2025.01.20-09.41.17:032][860]LogWorld: Bringing up level for play took: 0.002046
+[2025.01.20-09.41.17:034][860]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2025.01.20-09.41.17:042][860]PIE: Serveur connecté
+[2025.01.20-09.41.17:042][860]PIE: Play in Editor : temps total de démarrage 0,132 secondes.
+[2025.01.20-09.41.30:841][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-09.41.47:469][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-09.41.57:708][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-09.41.57:708][717]LogWorld: BeginTearingDown for /Game/2DAction/Maps/UEDPIE_0_AttractionPark
+[2025.01.20-09.41.57:708][717]LogWorld: UWorld::CleanupWorld for AttractionPark, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-09.41.57:709][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-09.41.57:710][717]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.20-09.41.57:710][717]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.20-09.41.57:714][717]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.20-09.41.57:719][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-09.41.57:733][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-09.41.57:733][717]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.01.20-09.41.57:733][717]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.01.20-09.41.57:734][717]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.01.20-09.41.57:740][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.01.20-09.41.57:802][718]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2025.01.20-09.42.03:408][367]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.20-09.42.03:435][367]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ChambouleTout/TriggerBoxStandChamb] ([2] browsable assets)...
+[2025.01.20-09.42.03:435][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/ChambouleTout/TriggerBoxStandChamb]
+[2025.01.20-09.42.03:445][367]LogSavePackage: Moving output files for package: /Game/ChambouleTout/TriggerBoxStandChamb
+[2025.01.20-09.42.03:446][367]LogSavePackage: Moving '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Saved/TriggerBoxStandChamb9A9D7AA84EAF4C99C756DF91A3178C76.tmp' to '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Content/ChambouleTout/TriggerBoxStandChamb.uasset'
+[2025.01.20-09.42.03:459][367]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.848 ms (total: 2.99 sec)
+[2025.01.20-09.42.03:503][367]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.20-09.42.03:503][367]LogContentValidation: Enabled validators:
+[2025.01.20-09.42.03:503][367]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.20-09.42.03:503][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.20-09.42.03:503][367]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.20-09.42.03:503][367]LogContentValidation: Display: Validating asset /Game/ChambouleTout/TriggerBoxStandChamb.TriggerBoxStandChamb
+[2025.01.20-09.42.03:503][367]AssetCheck: /Game/ChambouleTout/TriggerBoxStandChamb Validation de la ressource
+[2025.01.20-09.47.29:182][ 87]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4693.473633
+[2025.01.20-09.47.29:333][105]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-09.47.29:333][105]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4693.615234, Update Interval: 346.772064
+[2025.01.20-09.52.59:239][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.20-09.52.59:320][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.01.20-09.52.59:340][169]LogSavePackage: Moving output files for package: /Game/2DAction/Maps/AttractionPark
+[2025.01.20-09.52.59:341][169]LogSavePackage: Moving '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Saved/AttractionPark5837912B484A1C9762AAC4B18EEBEA2A.tmp' to '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Content/2DAction/Maps/AttractionPark.umap'
+[2025.01.20-09.52.59:347][169]LogFileHelpers: Saving map 'AttractionPark' took 0.064
+[2025.01.20-09.52.59:354][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.362 ms (total: 3.10 sec)
+[2025.01.20-09.52.59:401][169]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.20-09.52.59:401][169]LogContentValidation: Enabled validators:
+[2025.01.20-09.52.59:401][169]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.20-09.52.59:401][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.20-09.52.59:401][169]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.20-09.52.59:401][169]LogContentValidation: Display: Validating asset /Game/2DAction/Maps/AttractionPark.AttractionPark
+[2025.01.20-09.52.59:401][169]AssetCheck: /Game/2DAction/Maps/AttractionPark Validation de la ressource
+[2025.01.20-09.53.53:927][425]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5078.212402
+[2025.01.20-09.53.54:066][441]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-09.53.54:066][441]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5078.341309, Update Interval: 339.742432
+[2025.01.20-09.59.56:438][402]LogSlate: Window 'Choisir la classe parente' being destroyed
+[2025.01.20-09.59.56:444][402]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.01.20-09.59.56:451][402]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.01.20-09.59.56:472][403]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.01.20-10.00.01:428][973]LogContentBrowser: Attempting asset rename: NewBlueprint -> TEST
+[2025.01.20-10.00.01:432][973]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ChambouleTout/TEST.
+[2025.01.20-10.00.01:433][973]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.01.20-10.00.02:347][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.20-10.00.02:406][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ChambouleTout/TEST] ([2] browsable assets)...
+[2025.01.20-10.00.02:406][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/ChambouleTout/TEST]
+[2025.01.20-10.00.02:406][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ChambouleTout/TEST" FILE="../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Content/ChambouleTout/TEST.uasset" SILENT=true
+[2025.01.20-10.00.02:408][ 69]LogSavePackage: Moving output files for package: /Game/ChambouleTout/TEST
+[2025.01.20-10.00.02:408][ 69]LogSavePackage: Moving '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Saved/TEST8D7849CD43F39938B36D908045AD9EAA.tmp' to '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Content/ChambouleTout/TEST.uasset'
+[2025.01.20-10.00.02:408][ 69]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ChambouleTout/TEST.
+[2025.01.20-10.00.02:416][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.959 ms (total: 3.17 sec)
+[2025.01.20-10.00.02:473][ 69]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.20-10.00.02:473][ 69]LogContentValidation: Enabled validators:
+[2025.01.20-10.00.02:473][ 69]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.20-10.00.02:473][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.20-10.00.02:473][ 69]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.20-10.00.02:473][ 69]LogContentValidation: Display: Validating asset /Game/ChambouleTout/TEST.TEST
+[2025.01.20-10.00.02:473][ 69]AssetCheck: /Game/ChambouleTout/TEST Validation de la ressource
+[2025.01.20-10.00.02:991][125]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ChambouleTout/TEST.TEST
+[2025.01.20-10.00.20:664][863]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5464.929199
+[2025.01.20-10.00.20:788][875]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-10.00.20:788][875]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5465.042480, Update Interval: 334.051331
+[2025.01.20-10.00.25:925][343]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: ' (U+007f)'
+[2025.01.20-10.00.25:941][343]LogSlate: Took 0.015566 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.01.20-10.00.43:101][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.01.20-10.00.47:950][386]LogSlate: Window 'TEST' being destroyed
+[2025.01.20-10.00.49:303][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.20-10.00.49:337][543]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ChambouleTout/TEST] ([2] browsable assets)...
+[2025.01.20-10.00.49:337][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/ChambouleTout/TEST]
+[2025.01.20-10.00.49:337][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ChambouleTout/TEST" FILE="../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Content/ChambouleTout/TEST.uasset" SILENT=true
+[2025.01.20-10.00.49:338][543]LogSavePackage: Moving output files for package: /Game/ChambouleTout/TEST
+[2025.01.20-10.00.49:339][543]LogSavePackage: Moving '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Saved/TESTE2A1E9F14FC661B19850C78185A03304.tmp' to '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Content/ChambouleTout/TEST.uasset'
+[2025.01.20-10.00.49:352][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.471 ms (total: 3.22 sec)
+[2025.01.20-10.00.49:405][543]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.20-10.00.49:405][543]LogContentValidation: Enabled validators:
+[2025.01.20-10.00.49:405][543]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.20-10.00.49:405][543]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.20-10.00.49:405][543]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.20-10.00.49:405][543]LogContentValidation: Display: Validating asset /Game/ChambouleTout/TEST.TEST
+[2025.01.20-10.00.49:405][543]AssetCheck: /Game/ChambouleTout/TEST Validation de la ressource
+[2025.01.20-10.01.01:361][958]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-10.01.01:361][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-10.01.01:393][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.01.20-10.01.02:845][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.01.20-10.01.03:885][106]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.20-10.01.03:911][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.01.20-10.01.03:923][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.01.20-10.01.03:938][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.01.20-10.01.16:501][719]LogSlate: Window 'Choisir la classe parente' being destroyed
+[2025.01.20-10.01.17:756][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.01.20-10.01.17:766][825]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ChambouleTout/BP_CahmbouleTout1.
+[2025.01.20-10.01.19:205][934]EditorErrors: Error: /Game/2DAction/Tools/EUB_Texture2DSettings.EUB_Texture2DSettings nécessite un réenregistrement et éventuellement une mise à niveau.
+[2025.01.20-10.01.21:359][101]LogContentBrowser: Attempting asset rename: BP_CahmbouleTout1 -> TEST
+[2025.01.20-10.01.21:386][101]LogMetaData: Removing '/Game/ChambouleTout/TEST.SKEL_TEST_C' ref from Metadata '/Game/ChambouleTout/BP_CahmbouleTout1.PackageMetaData'
+[2025.01.20-10.01.21:386][101]LogMetaData: Removing '/Game/ChambouleTout/TEST.TEST_C' ref from Metadata '/Game/ChambouleTout/BP_CahmbouleTout1.PackageMetaData'
+[2025.01.20-10.01.21:386][101]LogMetaData: Removing '/Game/ChambouleTout/TEST.SKEL_TEST_C:PreConstruct' ref from Metadata '/Game/ChambouleTout/BP_CahmbouleTout1.PackageMetaData'
+[2025.01.20-10.01.21:386][101]LogMetaData: Removing '/Game/ChambouleTout/TEST.SKEL_TEST_C:Construct' ref from Metadata '/Game/ChambouleTout/BP_CahmbouleTout1.PackageMetaData'
+[2025.01.20-10.01.21:386][101]LogMetaData: Removing '/Game/ChambouleTout/TEST.SKEL_TEST_C:Tick' ref from Metadata '/Game/ChambouleTout/BP_CahmbouleTout1.PackageMetaData'
+[2025.01.20-10.01.21:386][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.20-10.01.21:423][101]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ChambouleTout/TEST] ([2] browsable assets)...
+[2025.01.20-10.01.21:425][101]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ChambouleTout/TEST.TEST]
+[2025.01.20-10.01.21:425][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/ChambouleTout/TEST]
+[2025.01.20-10.01.21:425][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ChambouleTout/TEST" FILE="../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Content/ChambouleTout/TEST.uasset" SILENT=true
+[2025.01.20-10.01.21:429][101]LogSavePackage: Moving output files for package: /Game/ChambouleTout/TEST
+[2025.01.20-10.01.21:429][101]LogSavePackage: Moving '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Saved/TEST9D4D5AAC4E87F8C7D26E7DBEBF0A84A9.tmp' to '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Content/ChambouleTout/TEST.uasset'
+[2025.01.20-10.01.21:434][101]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ChambouleTout/TEST.
+[2025.01.20-10.01.21:440][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.928 ms (total: 3.27 sec)
+[2025.01.20-10.01.21:460][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.01.20-10.01.21:475][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.01.20-10.01.21:486][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.01.20-10.01.21:526][101]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.20-10.01.21:526][101]LogContentValidation: Enabled validators:
+[2025.01.20-10.01.21:526][101]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.20-10.01.21:526][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.20-10.01.21:526][101]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.20-10.01.21:526][101]LogContentValidation: Display: Validating asset /Game/ChambouleTout/TEST.TEST
+[2025.01.20-10.01.21:526][101]AssetCheck: /Game/ChambouleTout/TEST Validation de la ressource
+[2025.01.20-10.01.22:877][245]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ChambouleTout/TEST.TEST
+[2025.01.20-10.01.30:231][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.01.20-10.01.56:241][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.01.20-10.01.56:816][206]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.20-10.01.56:872][206]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ChambouleTout/TEST] ([2] browsable assets)...
+[2025.01.20-10.01.56:874][206]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ChambouleTout/TEST.TEST]
+[2025.01.20-10.01.56:874][206]OBJ SavePackage: Finished generating thumbnails for package [/Game/ChambouleTout/TEST]
+[2025.01.20-10.01.56:874][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ChambouleTout/TEST" FILE="../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Content/ChambouleTout/TEST.uasset" SILENT=true
+[2025.01.20-10.01.56:878][206]LogSavePackage: Moving output files for package: /Game/ChambouleTout/TEST
+[2025.01.20-10.01.56:879][206]LogSavePackage: Moving '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Saved/TEST4A72A4DB4ED0E6E4A040E7A6E17854A9.tmp' to '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Content/ChambouleTout/TEST.uasset'
+[2025.01.20-10.01.56:892][206]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.906 ms (total: 3.35 sec)
+[2025.01.20-10.01.56:940][206]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.20-10.01.56:940][206]LogContentValidation: Enabled validators:
+[2025.01.20-10.01.56:940][206]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.20-10.01.56:940][206]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.20-10.01.56:940][206]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.20-10.01.56:940][206]LogContentValidation: Display: Validating asset /Game/ChambouleTout/TEST.TEST
+[2025.01.20-10.01.56:940][206]AssetCheck: /Game/ChambouleTout/TEST Validation de la ressource
+[2025.01.20-10.02.00:869][664]LogSlate: Window 'Réflecteur de widgets' being destroyed
+[2025.01.20-10.02.00:872][664]LogSlate: Window 'Réflecteur de widgets' being destroyed
+[2025.01.20-10.02.26:104][640]EditorErrors: Error: /Game/2DAction/Tools/EUB_Texture2DSettings.EUB_Texture2DSettings nécessite un réenregistrement et éventuellement une mise à niveau.
+[2025.01.20-10.03.56:645][712]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-10.03.56:645][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-10.03.56:654][712]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-10.03.56:654][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-10.03.56:704][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.01.20-10.04.10:929][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.01.20-10.04.12:022][358]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.20-10.04.12:042][358]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ChambouleTout/TEST.TEST
+	Asset Type: WidgetBlueprint
+[2025.01.20-10.04.12:248][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.01.20-10.04.12:262][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.01.20-10.04.12:275][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.01.20-10.04.29:504][343]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.01.20-10.04.29:525][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.20-10.04.29:525][343]LogPlayLevel: Creating play world package: /Game/2DAction/Maps/UEDPIE_0_AttractionPark
+[2025.01.20-10.04.29:530][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004017s)
+[2025.01.20-10.04.29:530][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DAction/Maps/AttractionPark.AttractionPark to /Game/2DAction/Maps/UEDPIE_0_AttractionPark.AttractionPark (0.004050s)
+[2025.01.20-10.04.29:543][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.01.20-10.04.29:545][343]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.20-10.04.29:545][343]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2025.01.20-10.04.29:552][343]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.01.20-10.04.29:552][343]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.20-10.04.29:552][343]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.20-10.04.29:552][343]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.20-10.04.29:552][343]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.20-10.04.29:552][343]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.20-10.04.29:552][343]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.20-10.04.29:552][343]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.20-10.04.29:552][343]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.20-10.04.29:552][343]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.20-10.04.29:552][343]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.20-10.04.29:552][343]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.20-10.04.29:553][343]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.20-10.04.29:595][343]LogAudioMixer: Display: Using Audio Hardware Device Voicemeeter Input (VB-Audio Voicemeeter VAIO)
+[2025.01.20-10.04.29:595][343]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.20-10.04.29:595][343]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.20-10.04.29:595][343]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.20-10.04.29:596][343]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.01.20-10.04.29:596][343]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.01.20-10.04.29:597][343]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.01.20-10.04.29:597][343]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.01.20-10.04.29:597][343]LogInit: FAudioDevice initialized with ID 24.
+[2025.01.20-10.04.29:597][343]LogAudio: Display: Audio Device (ID: 24) registered with world 'AttractionPark'.
+[2025.01.20-10.04.29:597][343]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.01.20-10.04.29:600][343]LogLoad: Game class is 'Player_Gamemode_C'
+[2025.01.20-10.04.29:601][343]LogWorld: Bringing World /Game/2DAction/Maps/UEDPIE_0_AttractionPark.AttractionPark up for play (max tick rate 0) at 2025.01.20-11.04.29
+[2025.01.20-10.04.29:602][343]LogWorld: Bringing up level for play took: 0.002271
+[2025.01.20-10.04.29:603][343]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2025.01.20-10.04.29:612][343]PIE: Serveur connecté
+[2025.01.20-10.04.29:613][343]PIE: Play in Editor : temps total de démarrage 0,1 secondes.
+[2025.01.20-10.04.53:859][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-10.04.53:859][229]LogWorld: BeginTearingDown for /Game/2DAction/Maps/UEDPIE_0_AttractionPark
+[2025.01.20-10.04.53:859][229]LogWorld: UWorld::CleanupWorld for AttractionPark, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-10.04.53:860][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-10.04.53:860][229]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.20-10.04.53:860][229]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.20-10.04.53:879][229]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.20-10.04.53:882][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-10.04.53:893][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-10.04.53:894][229]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.01.20-10.04.53:894][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.01.20-10.04.53:895][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.01.20-10.04.53:900][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.01.20-10.04.53:995][230]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2025.01.20-10.05.04:418][356]Cmd: TRANSACTION UNDO
+[2025.01.20-10.05.04:418][356]LogEditorTransaction: Undo Déplacer les éléments
+[2025.01.20-10.05.05:604][416]LogEditorViewport: Clicking Background
+[2025.01.20-10.05.06:472][516]LogEditorViewport: Clicking Background
+[2025.01.20-10.05.14:531][438]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RollerCoster/BP_Spline.BP_Spline
+[2025.01.20-10.05.19:903][918]LogSlate: Window 'BP_Spline' being destroyed
+[2025.01.20-10.05.19:947][918]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-10.05.19:947][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-10.05.19:993][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.01.20-10.05.20:766][995]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RollerCoster/BP_RollerCoasterCar.BP_RollerCoasterCar
+[2025.01.20-10.05.47:407][522]LogSlate: Window 'BP_RollerCoasterCar' being destroyed
+[2025.01.20-10.05.47:438][522]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-10.05.47:438][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-10.05.47:487][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.01.20-10.05.59:049][809]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.20-10.05.59:086][809]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ChambouleTout/TriggerBoxStandChamb] ([2] browsable assets)...
+[2025.01.20-10.05.59:086][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/ChambouleTout/TriggerBoxStandChamb]
+[2025.01.20-10.05.59:096][809]LogSavePackage: Moving output files for package: /Game/ChambouleTout/TriggerBoxStandChamb
+[2025.01.20-10.05.59:097][809]LogSavePackage: Moving '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Saved/TriggerBoxStandChamb64D4F070488F6729FF33CDAE9CC57B08.tmp' to '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Content/ChambouleTout/TriggerBoxStandChamb.uasset'
+[2025.01.20-10.05.59:103][809]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.411 ms (total: 3.40 sec)
+[2025.01.20-10.05.59:135][809]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.20-10.05.59:135][809]LogContentValidation: Enabled validators:
+[2025.01.20-10.05.59:135][809]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.20-10.05.59:135][809]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.20-10.05.59:135][809]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.20-10.05.59:135][809]LogContentValidation: Display: Validating asset /Game/ChambouleTout/TriggerBoxStandChamb.TriggerBoxStandChamb
+[2025.01.20-10.05.59:135][809]AssetCheck: /Game/ChambouleTout/TriggerBoxStandChamb Validation de la ressource
+[2025.01.20-10.06.28:802][341]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5833.071777
+[2025.01.20-10.06.28:953][359]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-10.06.28:954][359]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5833.213379, Update Interval: 306.894135
+[2025.01.20-10.11.03:487][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.01.20-10.12.20:339][284]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6184.629883
+[2025.01.20-10.12.20:464][299]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-10.12.20:464][300]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6184.746582, Update Interval: 315.454559
+[2025.01.20-10.13.23:429][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.01.20-10.13.23:432][789]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DAction/Maps/AttractionPark' took 0.017
+[2025.01.20-10.13.23:433][789]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ChambouleTout/TriggerBoxStandChamb] ([2] browsable assets)...
+[2025.01.20-10.13.23:433][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/ChambouleTout/TriggerBoxStandChamb]
+[2025.01.20-10.13.23:454][789]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ChambouleTout/TriggerBoxStandChamb_Auto2
+[2025.01.20-10.13.23:454][789]LogSavePackage: Moving '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Saved/TriggerBoxStandChamb_Auto2AAE84F5A42AB7708C1D39FB0DDBBA6E7.tmp' to '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Saved/Autosaves/Game/ChambouleTout/TriggerBoxStandChamb_Auto2.uasset'
+[2025.01.20-10.13.23:455][789]LogFileHelpers: Auto-saving content packages took 0.023
+[2025.01.20-10.18.14:457][785]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6538.828613
+[2025.01.20-10.18.15:455][788]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-10.18.15:455][788]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6539.498535, Update Interval: 348.257080
+[2025.01.20-10.21.59:961][571]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BP_AI.BP_AI
+[2025.01.20-10.22.08:944][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.20-10.22.08:994][601]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ChambouleTout/TriggerBoxStandChamb] ([2] browsable assets)...
+[2025.01.20-10.22.08:994][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/ChambouleTout/TriggerBoxStandChamb]
+[2025.01.20-10.22.09:006][601]LogSavePackage: Moving output files for package: /Game/ChambouleTout/TriggerBoxStandChamb
+[2025.01.20-10.22.09:006][601]LogSavePackage: Moving '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Saved/TriggerBoxStandChamb424BAFE549F1241C05736BBB5A75C189.tmp' to '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Content/ChambouleTout/TriggerBoxStandChamb.uasset'
+[2025.01.20-10.22.09:019][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.353 ms (total: 3.48 sec)
+[2025.01.20-10.22.09:058][601]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.20-10.22.09:058][601]LogContentValidation: Enabled validators:
+[2025.01.20-10.22.09:058][601]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.20-10.22.09:058][601]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.20-10.22.09:058][601]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.20-10.22.09:058][601]LogContentValidation: Display: Validating asset /Game/ChambouleTout/TriggerBoxStandChamb.TriggerBoxStandChamb
+[2025.01.20-10.22.09:058][601]AssetCheck: /Game/ChambouleTout/TriggerBoxStandChamb Validation de la ressource
+[2025.01.20-10.22.09:957][706]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-10.22.09:957][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-10.22.10:025][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.01.20-10.22.11:360][858]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-10.22.11:360][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-10.22.11:368][858]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-10.22.11:368][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-10.22.11:412][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.01.20-10.22.19:908][853]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/AIC_AI.AIC_AI
+[2025.01.20-10.23.08:471][504]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.01.20-10.23.08:493][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.20-10.23.08:495][504]LogPlayLevel: Creating play world package: /Game/2DAction/Maps/UEDPIE_0_AttractionPark
+[2025.01.20-10.23.08:498][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003964s)
+[2025.01.20-10.23.08:499][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DAction/Maps/AttractionPark.AttractionPark to /Game/2DAction/Maps/UEDPIE_0_AttractionPark.AttractionPark (0.003994s)
+[2025.01.20-10.23.08:511][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.01.20-10.23.08:514][504]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.20-10.23.08:515][504]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2025.01.20-10.23.08:522][504]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.01.20-10.23.08:522][504]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.20-10.23.08:522][504]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.20-10.23.08:522][504]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.20-10.23.08:522][504]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.20-10.23.08:522][504]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.20-10.23.08:522][504]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.20-10.23.08:522][504]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.20-10.23.08:522][504]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.20-10.23.08:522][504]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.20-10.23.08:522][504]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.20-10.23.08:522][504]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.20-10.23.08:523][504]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.20-10.23.08:567][504]LogAudioMixer: Display: Using Audio Hardware Device Voicemeeter Input (VB-Audio Voicemeeter VAIO)
+[2025.01.20-10.23.08:567][504]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.20-10.23.08:567][504]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.20-10.23.08:567][504]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.20-10.23.08:568][504]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.01.20-10.23.08:568][504]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2025.01.20-10.23.08:569][504]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.01.20-10.23.08:569][504]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.01.20-10.23.08:569][504]LogInit: FAudioDevice initialized with ID 25.
+[2025.01.20-10.23.08:569][504]LogAudio: Display: Audio Device (ID: 25) registered with world 'AttractionPark'.
+[2025.01.20-10.23.08:569][504]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.01.20-10.23.08:572][504]LogLoad: Game class is 'Player_Gamemode_C'
+[2025.01.20-10.23.08:574][504]LogWorld: Bringing World /Game/2DAction/Maps/UEDPIE_0_AttractionPark.AttractionPark up for play (max tick rate 0) at 2025.01.20-11.23.08
+[2025.01.20-10.23.08:575][504]LogWorld: Bringing up level for play took: 0.002700
+[2025.01.20-10.23.08:577][504]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2025.01.20-10.23.08:585][504]PIE: Serveur connecté
+[2025.01.20-10.23.08:586][504]PIE: Play in Editor : temps total de démarrage 0,108 secondes.
+[2025.01.20-10.23.22:809][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-10.23.22:810][192]LogWorld: BeginTearingDown for /Game/2DAction/Maps/UEDPIE_0_AttractionPark
+[2025.01.20-10.23.22:810][192]LogWorld: UWorld::CleanupWorld for AttractionPark, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-10.23.22:810][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-10.23.22:810][192]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.20-10.23.22:810][192]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.20-10.23.22:815][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.20-10.23.22:818][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-10.23.22:833][192]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.20-10.23.22:833][192]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.01.20-10.23.22:834][192]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.01.20-10.23.22:835][192]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.01.20-10.23.22:838][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-10.23.22:839][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.01.20-10.23.22:938][193]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2025.01.20-10.23.33:563][400]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/AI/BB_AI.BB_AI
+[2025.01.20-10.23.38:290][932]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/AI/BT_AI.BT_AI
+[2025.01.20-10.24.12:529][ 15]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BTTask_RandomMovementAi.BTTask_RandomMovementAi
+[2025.01.20-10.24.52:753][804]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6937.160156
+[2025.01.20-10.24.52:903][822]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-10.24.52:903][822]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6937.302246, Update Interval: 335.056610
+[2025.01.20-10.26.01:129][915]LogEditorViewport: Clicking Background
+[2025.01.20-10.26.22:444][428]LogEditorTransaction: Undo Modifier Range
+[2025.01.20-10.28.24:926][833]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.01.20-10.28.24:952][833]LogPlayLevel: [PlayLevel] Compiling BP_AI before play...
+[2025.01.20-10.28.25:004][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.01.20-10.28.25:011][833]LogPlayLevel: PlayLevel: Blueprint regeneration took 60 ms (1 blueprints)
+[2025.01.20-10.28.25:033][833]LogPlayLevel: Creating play world package: /Game/2DAction/Maps/UEDPIE_0_AttractionPark
+[2025.01.20-10.28.25:037][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004229s)
+[2025.01.20-10.28.25:037][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DAction/Maps/AttractionPark.AttractionPark to /Game/2DAction/Maps/UEDPIE_0_AttractionPark.AttractionPark (0.004271s)
+[2025.01.20-10.28.25:052][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.01.20-10.28.25:053][833]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.20-10.28.25:053][833]LogPlayLevel: PIE: World Init took: (0.000876s)
+[2025.01.20-10.28.25:061][833]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2025.01.20-10.28.25:061][833]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.20-10.28.25:061][833]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.20-10.28.25:061][833]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.20-10.28.25:061][833]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.20-10.28.25:061][833]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.20-10.28.25:061][833]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.20-10.28.25:061][833]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.20-10.28.25:061][833]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.20-10.28.25:061][833]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.20-10.28.25:061][833]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.20-10.28.25:061][833]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.20-10.28.25:063][833]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.20-10.28.25:106][833]LogAudioMixer: Display: Using Audio Hardware Device Voicemeeter Input (VB-Audio Voicemeeter VAIO)
+[2025.01.20-10.28.25:106][833]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.20-10.28.25:106][833]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.20-10.28.25:106][833]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.20-10.28.25:107][833]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2025.01.20-10.28.25:107][833]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2025.01.20-10.28.25:109][833]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2025.01.20-10.28.25:109][833]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2025.01.20-10.28.25:109][833]LogInit: FAudioDevice initialized with ID 26.
+[2025.01.20-10.28.25:109][833]LogAudio: Display: Audio Device (ID: 26) registered with world 'AttractionPark'.
+[2025.01.20-10.28.25:109][833]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2025.01.20-10.28.25:113][833]LogLoad: Game class is 'Player_Gamemode_C'
+[2025.01.20-10.28.25:114][833]LogWorld: Bringing World /Game/2DAction/Maps/UEDPIE_0_AttractionPark.AttractionPark up for play (max tick rate 0) at 2025.01.20-11.28.25
+[2025.01.20-10.28.25:115][833]LogWorld: Bringing up level for play took: 0.002579
+[2025.01.20-10.28.25:117][833]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2025.01.20-10.28.25:126][833]PIE: Serveur connecté
+[2025.01.20-10.28.25:126][833]PIE: Play in Editor : temps total de démarrage 0,193 secondes.
+[2025.01.20-10.28.42:191][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-10.28.54:734][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-10.29.01:032][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-10.29.07:141][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-10.29.15:492][841]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ChambouleTout/BP_projectile.BP_projectile
+[2025.01.20-10.29.22:778][595]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-10.29.22:778][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-10.29.22:829][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.01.20-10.29.28:045][185]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Bumper/BP_Voiture.BP_Voiture
+[2025.01.20-10.29.32:889][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-10.29.32:889][609]LogWorld: BeginTearingDown for /Game/2DAction/Maps/UEDPIE_0_AttractionPark
+[2025.01.20-10.29.32:889][609]LogWorld: UWorld::CleanupWorld for AttractionPark, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-10.29.32:889][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-10.29.32:889][609]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.20-10.29.32:890][609]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.20-10.29.32:901][609]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.20-10.29.32:907][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-10.29.32:918][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-10.29.32:918][609]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2025.01.20-10.29.32:919][609]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.01.20-10.29.32:920][609]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.01.20-10.29.32:926][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.01.20-10.29.32:967][610]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2025.01.20-10.29.33:546][679]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.01.20-10.29.33:567][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.20-10.29.33:567][679]LogPlayLevel: Creating play world package: /Game/2DAction/Maps/UEDPIE_0_AttractionPark
+[2025.01.20-10.29.33:572][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004032s)
+[2025.01.20-10.29.33:572][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DAction/Maps/AttractionPark.AttractionPark to /Game/2DAction/Maps/UEDPIE_0_AttractionPark.AttractionPark (0.004072s)
+[2025.01.20-10.29.33:585][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.01.20-10.29.33:586][679]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.20-10.29.33:587][679]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2025.01.20-10.29.33:600][679]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2025.01.20-10.29.33:600][679]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.20-10.29.33:600][679]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.20-10.29.33:600][679]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.20-10.29.33:600][679]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.20-10.29.33:600][679]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.20-10.29.33:600][679]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.20-10.29.33:600][679]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.20-10.29.33:600][679]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.20-10.29.33:600][679]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.20-10.29.33:600][679]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.20-10.29.33:600][679]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.20-10.29.33:601][679]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.20-10.29.33:640][679]LogAudioMixer: Display: Using Audio Hardware Device Voicemeeter Input (VB-Audio Voicemeeter VAIO)
+[2025.01.20-10.29.33:640][679]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.20-10.29.33:640][679]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.20-10.29.33:640][679]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.20-10.29.33:641][679]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2025.01.20-10.29.33:641][679]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2025.01.20-10.29.33:642][679]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2025.01.20-10.29.33:642][679]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2025.01.20-10.29.33:642][679]LogInit: FAudioDevice initialized with ID 27.
+[2025.01.20-10.29.33:642][679]LogAudio: Display: Audio Device (ID: 27) registered with world 'AttractionPark'.
+[2025.01.20-10.29.33:642][679]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2025.01.20-10.29.33:691][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-10.29.33:691][679]LogLoad: Game class is 'Player_Gamemode_C'
+[2025.01.20-10.29.33:693][679]LogWorld: Bringing World /Game/2DAction/Maps/UEDPIE_0_AttractionPark.AttractionPark up for play (max tick rate 0) at 2025.01.20-11.29.33
+[2025.01.20-10.29.33:694][679]LogWorld: Bringing up level for play took: 0.002313
+[2025.01.20-10.29.33:695][679]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2025.01.20-10.29.33:706][679]PIE: Serveur connecté
+[2025.01.20-10.29.33:706][679]PIE: Play in Editor : temps total de démarrage 0,154 secondes.
+[2025.01.20-10.29.41:310][481]LogBlueprintUserMessages: [TriggerBoxBumperVictory_C_3] 1
+[2025.01.20-10.29.41:310][481]LogBlueprintUserMessages: [TriggerBoxBumperVictory_C_3] 2
+[2025.01.20-10.29.41:310][481]LogBlueprintUserMessages: [TriggerBoxBumperVictory_C_3] 3
+[2025.01.20-10.29.41:310][481]LogBlueprintUserMessages: [TriggerBoxBumperVictory_C_3] 4
+[2025.01.20-10.29.48:342][208]LogBlueprintUserMessages: [TriggerBoxBumperVictory_C_3] 5
+[2025.01.20-10.29.48:342][208]LogBlueprintUserMessages: [TriggerBoxBumperVictory_C_3] 6
+[2025.01.20-10.29.48:342][208]LogBlueprintUserMessages: [TriggerBoxBumperVictory_C_3] 7
+[2025.01.20-10.29.48:342][208]LogBlueprintUserMessages: [TriggerBoxBumperVictory_C_3] 8
+[2025.01.20-10.30.17:087][232]LogBlueprintUserMessages: [TriggerBoxBumperVictory_C_3] 9
+[2025.01.20-10.30.17:087][232]LogBlueprintUserMessages: [TriggerBoxBumperVictory_C_3] 10
+[2025.01.20-10.30.17:087][232]LogBlueprintUserMessages: [TriggerBoxBumperVictory_C_3] 11
+[2025.01.20-10.30.17:087][232]LogBlueprintUserMessages: [TriggerBoxBumperVictory_C_3] 12
+[2025.01.20-10.30.39:450][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-10.30.39:450][605]LogWorld: BeginTearingDown for /Game/2DAction/Maps/UEDPIE_0_AttractionPark
+[2025.01.20-10.30.39:451][605]LogSlate: Window 'HD2D_Attraction_Park Prévisualiser [ModeN et : Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.20-10.30.39:454][605]LogWorld: UWorld::CleanupWorld for AttractionPark, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-10.30.39:454][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-10.30.39:455][605]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.20-10.30.39:455][605]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.20-10.30.39:458][605]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.20-10.30.39:462][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-10.30.39:475][605]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2025.01.20-10.30.39:475][605]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2025.01.20-10.30.39:477][605]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2025.01.20-10.30.39:483][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.01.20-10.30.39:509][606]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2025.01.20-10.30.58:782][772]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7303.193848
+[2025.01.20-10.30.59:784][775]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-10.30.59:784][775]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7303.859863, Update Interval: 301.030914
+[2025.01.20-10.31.09:518][928]LogDerivedDataCache: C:/Users/lqueirosdasilva/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.20-10.31.14:554][464]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RollerCoster/BP_RollerCoasterCar.BP_RollerCoasterCar
+[2025.01.20-10.32.18:027][799]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.20-10.32.18:060][799]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RollerCoster/BP_RollerCoasterCar] ([2] browsable assets)...
+[2025.01.20-10.32.18:060][799]OBJ SavePackage: Finished generating thumbnails for package [/Game/RollerCoster/BP_RollerCoasterCar]
+[2025.01.20-10.32.18:068][799]LogSavePackage: Moving output files for package: /Game/RollerCoster/BP_RollerCoasterCar
+[2025.01.20-10.32.18:069][799]LogSavePackage: Moving '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Saved/BP_RollerCoasterCarCC9746EF401C0FD71CD9B8ABF3D67F5B.tmp' to '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Content/RollerCoster/BP_RollerCoasterCar.uasset'
+[2025.01.20-10.32.18:076][799]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.532 ms (total: 3.53 sec)
+[2025.01.20-10.32.18:126][799]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.20-10.32.18:126][799]LogContentValidation: Enabled validators:
+[2025.01.20-10.32.18:126][799]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.20-10.32.18:126][799]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.20-10.32.18:126][799]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.20-10.32.18:126][799]LogContentValidation: Display: Validating asset /Game/RollerCoster/BP_RollerCoasterCar.BP_RollerCoasterCar
+[2025.01.20-10.32.18:126][799]AssetCheck: /Game/RollerCoster/BP_RollerCoasterCar Validation de la ressource
+[2025.01.20-10.32.18:686][846]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.01.20-10.32.18:709][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.20-10.32.18:709][846]LogPlayLevel: Creating play world package: /Game/2DAction/Maps/UEDPIE_0_AttractionPark
+[2025.01.20-10.32.18:713][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004066s)
+[2025.01.20-10.32.18:713][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DAction/Maps/AttractionPark.AttractionPark to /Game/2DAction/Maps/UEDPIE_0_AttractionPark.AttractionPark (0.004099s)
+[2025.01.20-10.32.18:730][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.01.20-10.32.18:732][846]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.20-10.32.18:733][846]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2025.01.20-10.32.18:739][846]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2025.01.20-10.32.18:739][846]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.20-10.32.18:739][846]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.20-10.32.18:739][846]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.20-10.32.18:739][846]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.20-10.32.18:739][846]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.20-10.32.18:739][846]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.20-10.32.18:739][846]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.20-10.32.18:740][846]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.20-10.32.18:740][846]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.20-10.32.18:740][846]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.20-10.32.18:740][846]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.20-10.32.18:741][846]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.20-10.32.18:784][846]LogAudioMixer: Display: Using Audio Hardware Device Voicemeeter Input (VB-Audio Voicemeeter VAIO)
+[2025.01.20-10.32.18:784][846]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.20-10.32.18:784][846]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.20-10.32.18:785][846]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.20-10.32.18:785][846]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2025.01.20-10.32.18:785][846]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2025.01.20-10.32.18:786][846]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2025.01.20-10.32.18:786][846]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2025.01.20-10.32.18:786][846]LogInit: FAudioDevice initialized with ID 28.
+[2025.01.20-10.32.18:786][846]LogAudio: Display: Audio Device (ID: 28) registered with world 'AttractionPark'.
+[2025.01.20-10.32.18:786][846]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2025.01.20-10.32.18:791][846]LogLoad: Game class is 'Player_Gamemode_C'
+[2025.01.20-10.32.18:792][846]LogWorld: Bringing World /Game/2DAction/Maps/UEDPIE_0_AttractionPark.AttractionPark up for play (max tick rate 0) at 2025.01.20-11.32.18
+[2025.01.20-10.32.18:793][846]LogWorld: Bringing up level for play took: 0.002120
+[2025.01.20-10.32.18:795][846]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2025.01.20-10.32.18:805][846]PIE: Serveur connecté
+[2025.01.20-10.32.18:805][846]PIE: Play in Editor : temps total de démarrage 0,112 secondes.
+[2025.01.20-10.32.21:954][122]LogSlate: Window 'BP_RollerCoasterCar' being destroyed
+[2025.01.20-10.32.21:959][122]LogSlate: Window 'BP_RollerCoasterCar' being destroyed
+[2025.01.20-10.32.21:965][122]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-10.32.21:965][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-10.32.22:022][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.01.20-10.32.52:122][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-10.32.52:122][724]LogWorld: BeginTearingDown for /Game/2DAction/Maps/UEDPIE_0_AttractionPark
+[2025.01.20-10.32.52:123][724]LogWorld: UWorld::CleanupWorld for AttractionPark, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-10.32.52:123][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-10.32.52:123][724]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.20-10.32.52:123][724]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.20-10.32.52:128][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.20-10.32.52:131][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-10.32.52:143][724]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.20-10.32.52:143][724]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2025.01.20-10.32.52:143][724]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.01.20-10.32.52:145][724]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.01.20-10.32.52:148][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-10.32.52:149][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.01.20-10.32.52:184][725]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2025.01.20-10.36.34:207][507]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7638.631836
+[2025.01.20-10.36.35:208][510]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-10.36.35:208][510]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7639.299805, Update Interval: 347.868896
+[2025.01.20-10.36.47:135][693]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RollerCoster/BP_RollerCoasterCar.BP_RollerCoasterCar
+[2025.01.20-10.37.04:620][ 93]LogSlate: Window 'BP_RollerCoasterCar' being destroyed
+[2025.01.20-10.37.39:778][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.01.20-10.37.40:322][355]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.20-10.37.40:375][355]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_AI] ([2] browsable assets)...
+[2025.01.20-10.37.40:375][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AI]
+[2025.01.20-10.37.40:375][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AI" FILE="../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Content/AI/BP_AI.uasset" SILENT=true
+[2025.01.20-10.37.40:382][355]LogSavePackage: Moving output files for package: /Game/AI/BP_AI
+[2025.01.20-10.37.40:382][355]LogSavePackage: Moving '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Saved/BP_AIE5D3B9214890352373631B9068BCF9D1.tmp' to '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Content/AI/BP_AI.uasset'
+[2025.01.20-10.37.40:391][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.054 ms (total: 3.60 sec)
+[2025.01.20-10.37.40:441][355]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.20-10.37.40:441][355]LogContentValidation: Enabled validators:
+[2025.01.20-10.37.40:441][355]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.20-10.37.40:441][355]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.20-10.37.40:441][355]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.20-10.37.40:441][355]LogContentValidation: Display: Validating asset /Game/AI/BP_AI.BP_AI
+[2025.01.20-10.37.40:442][355]AssetCheck: /Game/AI/BP_AI Validation de la ressource
+[2025.01.20-10.38.56:677][400]LogEditorTransaction: Undo Modifier Range
+[2025.01.20-10.39.11:359][ 93]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.01.20-10.39.11:371][ 93]LogPlayLevel: [PlayLevel] Compiling BP_AI before play...
+[2025.01.20-10.39.11:419][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.01.20-10.39.11:423][ 93]LogPlayLevel: PlayLevel: Blueprint regeneration took 51 ms (1 blueprints)
+[2025.01.20-10.39.11:423][ 93]LogPlayLevel: Creating play world package: /Game/2DAction/Maps/UEDPIE_0_AttractionPark
+[2025.01.20-10.39.11:427][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003882s)
+[2025.01.20-10.39.11:427][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DAction/Maps/AttractionPark.AttractionPark to /Game/2DAction/Maps/UEDPIE_0_AttractionPark.AttractionPark (0.003914s)
+[2025.01.20-10.39.11:440][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.01.20-10.39.11:442][ 93]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.20-10.39.11:442][ 93]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2025.01.20-10.39.11:449][ 93]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2025.01.20-10.39.11:449][ 93]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.20-10.39.11:449][ 93]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.20-10.39.11:449][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.20-10.39.11:449][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.20-10.39.11:449][ 93]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.20-10.39.11:449][ 93]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.20-10.39.11:449][ 93]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.20-10.39.11:449][ 93]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.20-10.39.11:449][ 93]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.20-10.39.11:449][ 93]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.20-10.39.11:449][ 93]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.20-10.39.11:451][ 93]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.20-10.39.11:492][ 93]LogAudioMixer: Display: Using Audio Hardware Device Voicemeeter Input (VB-Audio Voicemeeter VAIO)
+[2025.01.20-10.39.11:492][ 93]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.20-10.39.11:492][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.20-10.39.11:492][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.20-10.39.11:493][ 93]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2025.01.20-10.39.11:493][ 93]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2025.01.20-10.39.11:495][ 93]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2025.01.20-10.39.11:495][ 93]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2025.01.20-10.39.11:495][ 93]LogInit: FAudioDevice initialized with ID 29.
+[2025.01.20-10.39.11:495][ 93]LogAudio: Display: Audio Device (ID: 29) registered with world 'AttractionPark'.
+[2025.01.20-10.39.11:495][ 93]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2025.01.20-10.39.11:541][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-10.39.11:542][ 93]LogLoad: Game class is 'Player_Gamemode_C'
+[2025.01.20-10.39.11:546][ 93]LogWorld: Bringing World /Game/2DAction/Maps/UEDPIE_0_AttractionPark.AttractionPark up for play (max tick rate 0) at 2025.01.20-11.39.11
+[2025.01.20-10.39.11:547][ 93]LogWorld: Bringing up level for play took: 0.004579
+[2025.01.20-10.39.11:550][ 93]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2025.01.20-10.39.11:559][ 93]PIE: Serveur connecté
+[2025.01.20-10.39.11:560][ 93]PIE: Play in Editor : temps total de démarrage 0,194 secondes.
+[2025.01.20-10.39.30:906][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-10.39.30:906][292]LogWorld: BeginTearingDown for /Game/2DAction/Maps/UEDPIE_0_AttractionPark
+[2025.01.20-10.39.30:907][292]LogSlate: Window 'HD2D_Attraction_Park Prévisualiser [ModeN et : Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.20-10.39.30:911][292]LogWorld: UWorld::CleanupWorld for AttractionPark, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-10.39.30:912][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-10.39.30:912][292]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.20-10.39.30:913][292]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.20-10.39.30:916][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.20-10.39.30:920][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-10.39.30:935][292]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2025.01.20-10.39.30:935][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.01.20-10.39.30:936][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.01.20-10.39.30:941][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.01.20-10.39.30:968][293]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2025.01.20-10.39.58:842][532]Cmd: TRANSACTION UNDO
+[2025.01.20-10.39.58:842][532]LogEditorTransaction: Undo Réduire les éléments
+[2025.01.20-10.42.53:546][800]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8017.986816
+[2025.01.20-10.42.54:547][803]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-10.42.54:547][804]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8018.651367, Update Interval: 358.472839
+[2025.01.20-10.49.36:238][  8]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8420.668945
+[2025.01.20-10.49.37:236][ 11]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-10.49.37:236][ 11]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8421.335938, Update Interval: 320.466309
+[2025.01.20-10.55.47:483][455]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8791.900391
+[2025.01.20-10.55.48:484][458]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-10.55.48:484][458]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8792.566406, Update Interval: 304.585114
+[2025.01.20-11.01.43:836][524]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9148.245117
+[2025.01.20-11.01.44:836][527]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-11.01.44:836][527]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9148.911133, Update Interval: 312.092651
+[2025.01.20-11.07.27:461][126]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9491.864258
+[2025.01.20-11.07.28:461][129]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-11.07.28:461][129]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9492.530273, Update Interval: 307.756592
+[2025.01.20-11.09.34:814][613]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/2DAction/Maps/_GENERATED/lqueirosdasilva/Rectangle_8805B4F0.Rectangle_8805B4F0
+[2025.01.20-11.09.34:847][613]LogStaticMesh: Display: En attente de la préparation des maillages statiques 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals)...
+[2025.01.20-11.09.34:871][613]LogStaticMesh: Display: En attente de la préparation des maillages statiques 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh)...
+[2025.01.20-11.13.20:240][ 11]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9844.773438
+[2025.01.20-11.13.21:240][ 14]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-11.13.21:240][ 15]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9845.439453, Update Interval: 350.355530
+[2025.01.20-11.19.52:264][187]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10236.777344
+[2025.01.20-11.19.53:263][190]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-11.19.53:263][190]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10237.441406, Update Interval: 346.301453
+[2025.01.20-11.22.40:593][293]LogEditorViewport: Clicking Background
+[2025.01.20-11.26.21:454][885]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10625.959961
+[2025.01.20-11.26.22:455][888]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-11.26.22:455][888]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10626.625000, Update Interval: 345.385895
+[2025.01.20-11.29.07:286][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.01.20-11.29.07:300][492]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/AI/BP_AI1.
+[2025.01.20-11.29.08:288][551]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BP_AI1.BP_AI1
+[2025.01.20-11.29.29:059][926]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.01.20-11.30.02:770][869]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-11.30.02:770][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-11.30.02:823][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.01.20-11.30.06:403][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.01.20-11.30.07:790][222]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.20-11.30.07:824][222]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/AI/BP_AI1.BP_AI1
+	Asset Type: Blueprint
+[2025.01.20-11.30.08:043][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.01.20-11.30.08:075][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.01.20-11.30.08:090][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.01.20-11.30.08:104][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.01.20-11.30.26:790][648]LogSlate: Window 'Choisir la classe parente' being destroyed
+[2025.01.20-11.30.26:831][648]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.01.20-11.30.26:835][648]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.01.20-11.30.26:847][649]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.01.20-11.30.27:826][740]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2025.01.20-11.30.27:831][740]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/AI/NewBlueprint.
+[2025.01.20-11.30.27:831][740]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.01.20-11.30.28:706][841]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/NewBlueprint.NewBlueprint
+[2025.01.20-11.30.44:463][657]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Engine/EngineMeshes/SkeletalCube.SkeletalCube
+[2025.01.20-11.30.44:492][657]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.20-11.31.09:505][479]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-11.31.09:505][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-11.31.09:558][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.01.20-11.31.09:571][479]LogDerivedDataCache: C:/Users/lqueirosdasilva/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.20-11.31.10:976][639]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-11.31.10:976][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-11.31.11:010][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.01.20-11.31.36:781][715]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.20-11.31.36:781][715]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-11.31.36:781][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-11.31.36:833][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.01.20-11.31.37:664][809]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.20-11.31.37:664][809]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-11.31.37:664][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-11.31.37:720][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.01.20-11.31.38:581][903]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-11.31.38:581][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-11.31.38:627][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.01.20-11.31.38:905][933]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.20-11.31.38:905][933]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-11.31.38:905][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-11.31.38:964][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.01.20-11.31.39:364][975]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-11.31.39:364][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-11.31.39:436][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.01.20-11.32.04:147][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.01.20-11.32.04:148][124]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DAction/Maps/AttractionPark' took 0.016
+[2025.01.20-11.32.04:148][124]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AI/NewBlueprint] ([2] browsable assets)...
+[2025.01.20-11.32.04:194][124]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/NewBlueprint.NewBlueprint]
+[2025.01.20-11.32.04:208][124]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/AI/NewBlueprint.NewBlueprint_C]
+[2025.01.20-11.32.04:208][124]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/NewBlueprint]
+[2025.01.20-11.32.04:212][124]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/NewBlueprint_Auto3
+[2025.01.20-11.32.04:212][124]LogSavePackage: Moving '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Saved/NewBlueprint_Auto37D3F35C245E92C697C6286A8F09B9BBE.tmp' to '../../../../../../Users/lqueirosdasilva/Documents/GitHub/HD2D_AttractionPark/Saved/Autosaves/Game/AI/NewBlueprint_Auto3.uasset'
+[2025.01.20-11.32.04:213][124]LogFileHelpers: Auto-saving content packages took 0.066
+[2025.01.20-11.32.58:776][288]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11023.411133
+[2025.01.20-11.32.59:776][291]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-11.32.59:776][291]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11024.080078, Update Interval: 319.047211
+[2025.01.20-11.39.05:468][388]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11390.098633
+[2025.01.20-11.39.06:469][391]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-11.39.06:470][391]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11390.763672, Update Interval: 355.398407
+[2025.01.20-11.45.51:828][607]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11796.453125
+[2025.01.20-11.45.52:833][610]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-11.45.52:833][610]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11797.121094, Update Interval: 348.518921
+[2025.01.20-11.52.13:854][753]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12178.476562
+[2025.01.20-11.52.14:853][756]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-11.52.14:853][756]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12179.142578, Update Interval: 330.237122
+[2025.01.20-11.58.27:549][874]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12552.151367
+[2025.01.20-11.58.28:548][877]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-11.58.28:548][878]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12552.816406, Update Interval: 347.799316
